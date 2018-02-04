@@ -1,7 +1,7 @@
 ﻿using System;
+using BerlinClock.Interfaces;
 using TechTalk.SpecFlow;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System.Linq;
 
 namespace BerlinClock
 {
